@@ -4,451 +4,631 @@
       "id": 1,
       "week": 1,
       "day": 1,
-      "category": "asoslar",
-      "title": "Moliyaviy maqsadlaringizni yozing",
-      "description": "Daftarga 3 ta moliyaviy maqsadingizni yozing: 1 yillik, 5 yillik va 10 yillik. Aniq raqamlar bilan yozing.",
-      "reward": "Bu birinchi qadam. Maqsadsiz yo'l yo'q!"
+      "category": "strategiya",
+      "title": "Yil oxirigacha maqsadni aniqla",
+      "description": "Yil oxirigacha qancha pul topmoqchisiz? Aniq raqam yozing. Masalan: $20,000 yoki 250 mln so'm. Oyiga qancha kerak - hisoblang. Qaysi xizmatdan eng ko'p keladi: app, bot, sayt?",
+      "reward": "Aniq maqsad = aniq yo'l"
     },
     {
       "id": 2,
       "week": 1,
       "day": 2,
-      "category": "asoslar",
-      "title": "Haftalik xarajatlarni yozing",
-      "description": "Bugundan boshlab 7 kun davomida har bir xarajatingizni yozib boring. Qancha pul, nimaga sarfladingiz.",
-      "reward": "Pulni boshqarish uni bilishdan boshlanadi."
+      "category": "portfolio",
+      "title": "Super portfolio yarating",
+      "description": "Barcha ko'nikmalaringizni ko'rsatadigan portfolio yarating: Flutter app, Telegram bot, Web sayt namunalari. AI bilan 1 kunda tayyorlang.",
+      "reward": "Portfolio = ishonch"
     },
     {
       "id": 3,
       "week": 1,
       "day": 3,
-      "category": "tejash",
-      "title": "Bitta keraksiz xarajatni toping",
-      "description": "Har oylik xarajatlaringizdan bitta keraksiz narsani toping va uni bekor qiling (obuna, odat, xizmat).",
-      "reward": "Tejagan pul - topilgan pul!"
+      "category": "xizmatlar",
+      "title": "Xizmatlar paketini tuzing",
+      "description": "3 ta xizmat paketi yarating: 1) Telegram bot - $200-500 2) Flutter app - $500-2000 3) Web sayt - $300-1000. AI bilan tez qilishingizni yozing.",
+      "reward": "Aniq narx = professional ko'rinish"
     },
     {
       "id": 4,
       "week": 1,
       "day": 4,
-      "category": "bilim",
-      "title": "Moliyaviy kitob tanlang",
-      "description": "Bitta moliyaviy kitob tanlang va o'qishni boshlang. Tavsiya: 'Boy ota, kambag'al ota' (Robert Kiyosaki).",
-      "reward": "Bilim - bu eng yaxshi investitsiya."
+      "category": "freelance",
+      "title": "3 ta platformada profil oching",
+      "description": "Upwork, Fiverr, Kwork (rus bozori) da profillar yarating. Har birida: Flutter Developer + Bot Developer + Web Developer deb yozing.",
+      "reward": "Ko'p platforma = ko'p mijoz"
     },
     {
       "id": 5,
       "week": 1,
       "day": 5,
-      "category": "daromad",
-      "title": "Qo'shimcha daromad imkoniyatini toping",
-      "description": "Qanday ko'nikmangiz bor? Uni qanday sotish mumkin? Bitta real imkoniyatni yozib qo'ying.",
-      "reward": "Bitta daromad manbasi yetarli emas."
+      "category": "telegram",
+      "title": "Telegram bot xizmatini reklama qiling",
+      "description": "O'zbek Telegram guruhlarida bot yasash xizmatini taklif qiling. Namuna sifatida Boylik Bot'ni ko'rsating. 10 ta guruhga yozing.",
+      "reward": "O'zbek bozor = kam raqobat"
     },
     {
       "id": 6,
       "week": 1,
       "day": 6,
-      "category": "tarmoq",
-      "title": "Muvaffaqiyatli odamni toping",
-      "description": "O'z sohangizda muvaffaqiyatga erishgan bitta odamni toping va uning tarixini o'rganing.",
-      "reward": "Muvaffaqiyat iz qoldiradi. Izlarni o'rganing."
+      "category": "freelance",
+      "title": "10 ta proposal yuboring",
+      "description": "Upwork va Fiverr'da bot, app, web loyihalarga 10 ta proposal yuboring. AI bilan yaxshi proposal yozishni o'rganing.",
+      "reward": "Proposal = imkoniyat"
     },
     {
       "id": 7,
       "week": 1,
       "day": 7,
-      "category": "asoslar",
-      "title": "Haftalik tahlil",
-      "description": "Shu haftadagi xarajatlaringizni tahlil qiling. Qancha pul keraksiz narsalarga ketdi?",
-      "reward": "Tahlil qilish - yaxshilanish boshlanishi."
+      "category": "mahsulot",
+      "title": "O'z mahsulot g'oyalarini yozing",
+      "description": "10 ta SaaS/App/Bot g'oyasini yozing. Muammolarni hal qiladigan. AI bilan brainstorm qiling. Eng realistik 3 tasini belgilang.",
+      "reward": "O'z mahsulot = unlimited income"
     },
     {
       "id": 8,
       "week": 2,
       "day": 1,
-      "category": "tejash",
-      "title": "Jamg'arma hisobini oching",
-      "description": "Agar yo'q bo'lsa, alohida jamg'arma hisobi oching. Bugundan boshlab har oylik daromadingizning 10% ni shu yerga o'tkazing.",
-      "reward": "Jamg'arma - bu kelajakka investitsiya."
+      "category": "telegram",
+      "title": "Bot template yarating",
+      "description": "Tez-tez so'raladigan bot turlarini template qilib qo'ying: Shop bot, Booking bot, Admin bot. Har biriga 1-2 soat ketsin.",
+      "reward": "Template = tez delivery"
     },
     {
       "id": 9,
       "week": 2,
       "day": 2,
-      "category": "bilim",
-      "title": "Investitsiya turlarini o'rganing",
-      "description": "Bugun investitsiya turlari haqida o'qing: aksiyalar, obligatsiyalar, ko'chmas mulk, biznes. Har biri haqida 2-3 gap yozing.",
-      "reward": "Investitsiya - boylikning kaliti."
+      "category": "web",
+      "title": "Landing page template yarating",
+      "description": "3 ta landing page template tayyorlang: Biznes uchun, Startup uchun, Portfolio uchun. AI + Tailwind = tez.",
+      "reward": "Template = productivity"
     },
     {
       "id": 10,
       "week": 2,
       "day": 3,
-      "category": "daromad",
-      "title": "Freelance profilini yarating",
-      "description": "Upwork, Fiverr yoki mahalliy freelance platformasida profil yarating. Ko'nikmalaringizni ko'rsating.",
-      "reward": "Online daromad - global imkoniyat."
+      "category": "mahsulot",
+      "title": "MVP tanlang va boshlang",
+      "description": "G'oyalaringizdan birini tanlang. Bugun MVP kodlashni boshlang. AI yordamida 2-3 soat ishlangg.",
+      "reward": "Boshlash eng qiyin qadam"
     },
     {
       "id": 11,
       "week": 2,
       "day": 4,
       "category": "tarmoq",
-      "title": "LinkedIn profilini yangilang",
-      "description": "LinkedIn profilingizni professional qilib yangilang. Agar yo'q bo'lsa, yarating.",
-      "reward": "Professional tarmoq - imkoniyatlar eshigi."
+      "title": "LinkedIn + Twitter faollashtiring",
+      "description": "Har ikki platformada developer sifatida profil yangilang. Birinchi post yozing: qanday xizmatlar berasiz.",
+      "reward": "Social media = free marketing"
     },
     {
       "id": 12,
       "week": 2,
       "day": 5,
-      "category": "bilim",
-      "title": "Budjet tuzish",
-      "description": "Keyingi oy uchun budjet tuzing: daromadlar, xarajatlar, jamg'arma. 50/30/20 qoidasini qo'llang.",
-      "reward": "Budjet - bu moliyaviy xarita."
+      "category": "freelance",
+      "title": "Yana 10 ta proposal",
+      "description": "Har kuni 10 ta proposal yuboring. Bu odat bo'lsin. Javob kelmasa ham davom eting.",
+      "reward": "Consistency wins"
     },
     {
       "id": 13,
       "week": 2,
       "day": 6,
-      "category": "daromad",
-      "title": "Uyda sotish mumkin bo'lgan narsalarni toping",
-      "description": "Uyingizdagi keraksiz narsalarni toping va ularni sotishga tayyorlang. OLX yoki boshqa platformalarda e'lon qiling.",
-      "reward": "Keraksiz narsalar - yashirin pul."
+      "category": "mahsulot",
+      "title": "MVP davom ettiring",
+      "description": "MVP'da davom eting. Asosiy funksiyalar tayyor bo'lsin. AI bilan tez yozing.",
+      "reward": "Progress > perfection"
     },
     {
       "id": 14,
       "week": 2,
       "day": 7,
-      "category": "asoslar",
-      "title": "Net worth hisobini oling",
-      "description": "Barcha aktivlaringiz (pul, mulk, investitsiyalar) dan barcha qarzlaringizni ayiring. Bu sizning sof boyligingiz.",
-      "reward": "Bilish - bu nazorat qilish."
+      "category": "tahlil",
+      "title": "Haftalik tahlil",
+      "description": "Hafta natijalari: nechta proposal, nechta javob, MVP qancha tayyor, qancha daromad? Yozib qo'ying.",
+      "reward": "Tahlil = yaxshilanish"
     },
     {
       "id": 15,
       "week": 3,
       "day": 1,
-      "category": "bilim",
-      "title": "Bitta yangi ko'nikma tanlang",
-      "description": "Daromadingizni oshiradigan bitta yangi ko'nikmani tanlang va o'rganishni boshlang (dasturlash, dizayn, marketing).",
-      "reward": "Yangi ko'nikma = yangi imkoniyat."
+      "category": "telegram",
+      "title": "Birinchi bot buyurtmasini oling",
+      "description": "O'zbek bozorida bot buyurtmasi oling. Narxni past qo'ying birinchi review uchun. $50-100 ham yaxshi boshlang'ich.",
+      "reward": "Birinchi mijoz = birinchi qadam"
     },
     {
       "id": 16,
       "week": 3,
       "day": 2,
-      "category": "tejash",
-      "title": "Avtomatik to'lovlarni tekshiring",
-      "description": "Bank kartangizdagi barcha avtomatik to'lovlarni tekshiring. Keraksizlarini bekor qiling.",
-      "reward": "Avtomatik to'lovlar jim pul yeydi."
+      "category": "web",
+      "title": "Web development xizmatini reklama qiling",
+      "description": "Mahalliy bizneslar uchun web sayt xizmati. Restoran, salon, do'konlarga taklif qiling. 5 ta biznesga yozing.",
+      "reward": "Local business = recurring client"
     },
     {
       "id": 17,
       "week": 3,
       "day": 3,
-      "category": "daromad",
-      "title": "Birinchi freelance ishingizga ariza bering",
-      "description": "Freelance platformada bitta ishga ariza bering. Hatto rad bo'lsa ham, tajriba ortadi.",
-      "reward": "Har bir 'yo'q' sizni 'ha'ga yaqinlashtiradi."
+      "category": "mahsulot",
+      "title": "MVP 50% tayyor",
+      "description": "MVP kamida 50% tayyor bo'lsin. Asosiy funksiyalar ishlashi kerak.",
+      "reward": "Yarim yo'l o'tildi"
     },
     {
       "id": 18,
       "week": 3,
       "day": 4,
-      "category": "tarmoq",
-      "title": "Biznes uchrashuv/webinarga qo'shiling",
-      "description": "Bugun bitta biznes webinar, masterclass yoki uchrashuv toping va ro'yxatdan o'ting.",
-      "reward": "Tarmoq kengayishi = imkoniyatlar ko'payishi."
+      "category": "flutter",
+      "title": "App Store/Play Store account oching",
+      "description": "Google Play ($25 bir martalik) va Apple Developer ($99/yil) account oching. App chiqarish uchun tayyor bo'ling.",
+      "reward": "Store = global reach"
     },
     {
       "id": 19,
       "week": 3,
       "day": 5,
-      "category": "bilim",
-      "title": "Muvaffaqiyatli odamning podcast/interviewsini tinglang",
-      "description": "Muvaffaqiyatli tadbirkorning interviewsini toping va to'liq tinglang. Asosiy fikrlarni yozib oling.",
-      "reward": "Muvaffaqiyatli odamlardan o'rganing."
+      "category": "freelance",
+      "title": "Agency bilan bog'laning",
+      "description": "Web/Mobile agencylar toping. Subcontractor sifatida ishlashni taklif qiling. 5 ta agencyga yozing.",
+      "reward": "Agency = stable work"
     },
     {
       "id": 20,
       "week": 3,
       "day": 6,
-      "category": "daromad",
-      "title": "Biznes g'oya yozing",
-      "description": "Bitta biznes g'oyani batafsil yozing: nima sotasiz, kimga sotasiz, qanday pul topasiz.",
-      "reward": "G'oya - bu urug'. Ekish kerak."
+      "category": "mahsulot",
+      "title": "MVP 70% tayyor",
+      "description": "MVP deyarli tayyor. UI polish, bug fix. Beta test uchun tayyorlang.",
+      "reward": "Deyarli tayyor!"
     },
     {
       "id": 21,
       "week": 3,
       "day": 7,
-      "category": "asoslar",
-      "title": "Haftalik tahlil va rejalashtirish",
-      "description": "O'tgan 3 haftani tahlil qiling. Nimalarga erishdingiz? Keyingi hafta uchun 3 ta maqsad qo'ying.",
-      "reward": "Tahlil va rejalashtirish - muvaffaqiyat formulasi."
+      "category": "tahlil",
+      "title": "3-hafta tahlil",
+      "description": "3 hafta natijasi: birinchi mijoz bormi? Qancha daromad? MVP qanday? Keyingi hafta rejasi.",
+      "reward": "3 hafta = momentum"
     },
     {
       "id": 22,
       "week": 4,
       "day": 1,
-      "category": "daromad",
-      "title": "Birinchi mahsulot/xizmatni soting",
-      "description": "Bugun biror narsa soting: eski narsa, xizmat, ko'nikma. Qancha bo'lsa ham, birinchi sotuvingiz muhim.",
-      "reward": "Birinchi sotuv - biznes boshlanishi."
+      "category": "mahsulot",
+      "title": "MVP 100% tayyor va deploy",
+      "description": "MVP to'liq tayyor. Deploy qiling: App bo'lsa store'ga, Bot bo'lsa serverga, Web bo'lsa hostingga.",
+      "reward": "Live product!"
     },
     {
       "id": 23,
       "week": 4,
       "day": 2,
-      "category": "investitsiya",
-      "title": "Investitsiya hisobini oching",
-      "description": "Broker hisobi oching yoki investitsiya ilovasi yuklab oling. Hali pul qo'ymasangiz ham bo'ladi.",
-      "reward": "Investitsiya sayohati birinchi qadamdan boshlanadi."
+      "category": "marketing",
+      "title": "Product Hunt / Hacker News",
+      "description": "Mahsulotni Product Hunt'da launch qiling. Yoki Hacker News'da Show HN post qiling. Free traffic.",
+      "reward": "Launch = visibility"
     },
     {
       "id": 24,
       "week": 4,
       "day": 3,
-      "category": "tejash",
-      "title": "30 kunlik challenge boshlang",
-      "description": "30 kun davomida bitta yomon moliyaviy odatni to'xtating (chekish, keraksiz xaridlar, tashqi ovqat).",
-      "reward": "Odat o'zgartirish - hayot o'zgartirish."
+      "category": "telegram",
+      "title": "Bot xizmatidan ikkinchi mijoz",
+      "description": "Yana bir bot mijozi toping. Birinchi mijozdan referral so'rang. Review olganingizni ko'rsating.",
+      "reward": "Referral = best leads"
     },
     {
       "id": 25,
       "week": 4,
       "day": 4,
-      "category": "tarmoq",
-      "title": "Mentor toping",
-      "description": "Sizdan oldinda yurgan bitta odamni toping va mentor bo'lishini so'rang. Yoki mentorlik dasturiga yozing.",
-      "reward": "Mentor - bu tezlatgich."
+      "category": "flutter",
+      "title": "Birinchi app buyurtmasi",
+      "description": "Upwork/Fiverr'dan yoki mahalliy bozordan birinchi Flutter app buyurtmasi oling.",
+      "reward": "App = bigger money"
     },
     {
       "id": 26,
       "week": 4,
       "day": 5,
-      "category": "bilim",
-      "title": "Soliqlar haqida o'rganing",
-      "description": "O'zbekistondagi soliq tizimi haqida o'qing. Tadbirkorlar uchun qanday soliqlar bor?",
-      "reward": "Soliqni bilish - pulni tejash."
+      "category": "web",
+      "title": "Birinchi web sayt buyurtmasi",
+      "description": "Mahalliy biznes uchun web sayt buyurtmasi oling. AI bilan 1-2 kunda tayyorlash mumkin.",
+      "reward": "Web = fast money"
     },
     {
       "id": 27,
       "week": 4,
       "day": 6,
-      "category": "daromad",
-      "title": "Passiv daromad manbasini rejalashtiring",
-      "description": "Bitta passiv daromad manbasini batafsil rejalashtiring: nima, qanday, qachon boshlaysiz?",
-      "reward": "Passiv daromad - bu erkinlik."
+      "category": "masshtab",
+      "title": "Xizmatlar paketini kengaytiring",
+      "description": "Maintenance package qo'shing: oylik bot support, app update, web hosting. Recurring revenue.",
+      "reward": "Recurring = stability"
     },
     {
       "id": 28,
       "week": 4,
       "day": 7,
-      "category": "asoslar",
-      "title": "Birinchi oy natijalarini tahlil qiling",
-      "description": "Bir oylik sayohatingizni tahlil qiling: qancha tejadingiz, nima o'rgandingiz, qancha topdingiz?",
-      "reward": "Bir oy - bu katta qadam oldinga!"
+      "category": "tahlil",
+      "title": "1-OY TAHLIL",
+      "description": "BIRINCHI OY TUGADI! Jami daromad, mijozlar soni, mahsulot holati. Keyingi oy maqsadni 2x qiling.",
+      "reward": "1 oy = asos tayyor"
     },
     {
       "id": 29,
       "week": 5,
       "day": 1,
-      "category": "investitsiya",
-      "title": "Birinchi investitsiyangizni qiling",
-      "description": "Kichik miqdorda bo'lsa ham, birinchi investitsiyangizni qiling. Aksiya, fond yoki kripto.",
-      "reward": "Birinchi investitsiya - katta qadam!"
+      "category": "masshtab",
+      "title": "Narxlarni 30% oshiring",
+      "description": "Tajriba va review bor. Yangi mijozlar uchun narxni 30% oshiring. Professional = qimmat.",
+      "reward": "Value up = price up"
     },
     {
       "id": 30,
       "week": 5,
       "day": 2,
-      "category": "daromad",
-      "title": "Side hustle ni rivojlantiring",
-      "description": "Qo'shimcha daromad manbaingizni rivojlantiring. Marketing qiling, yangi mijozlar toping.",
-      "reward": "Side hustle asosiy daromadga aylanishi mumkin."
+      "category": "mahsulot",
+      "title": "Ikkinchi mahsulot boshlang",
+      "description": "Birinchi MVP ishlayapti. Ikkinchi mahsulotni boshlang. Boshqa muammoni hal qiling.",
+      "reward": "Multiple products = multiple income"
     },
     {
       "id": 31,
       "week": 5,
       "day": 3,
-      "category": "bilim",
-      "title": "Negotiation (kelishuv) haqida o'rganing",
-      "description": "Kelishuv san'ati haqida bitta video ko'ring yoki maqola o'qing. 3 ta asosiy printsipni yozing.",
-      "reward": "Kelishuv bilishi = ko'proq pul."
+      "category": "passiv",
+      "title": "Template/UI kit sotishni boshlang",
+      "description": "Flutter template, Bot template, Web template - bularni Gumroad, CodeCanyon'da soting.",
+      "reward": "Passive income starts"
     },
     {
       "id": 32,
       "week": 5,
       "day": 4,
       "category": "tarmoq",
-      "title": "5 ta yangi odamga yozing",
-      "description": "LinkedIn yoki boshqa platformada 5 ta yangi odamga bog'laning. Salomlashing, tanishing.",
-      "reward": "Har bir yangi aloqa - yangi imkoniyat."
+      "title": "Startup'lar bilan bog'laning",
+      "description": "O'zbek va xorijiy startup'larga yozing. Ular tez harakat qiladi, yaxshi to'laydi.",
+      "reward": "Startup = exciting work"
     },
     {
       "id": 33,
       "week": 5,
       "day": 5,
-      "category": "tejash",
-      "title": "Narx taqqoslang",
-      "description": "Muntazam sotib oladigan 5 ta mahsulotning narxini turli do'konlarda taqqoslang. Eng arzon variantni toping.",
-      "reward": "Aqlli xaridor - boy xaridor."
+      "category": "bilim",
+      "title": "Yangi AI tool o'rganing",
+      "description": "Cursor, v0.dev, Bolt.new, Claude - yangi AI toollardan birini chuqur o'rganing. Tezlikni 2x oshiring.",
+      "reward": "AI tools = superpower"
     },
     {
       "id": 34,
       "week": 5,
       "day": 6,
-      "category": "daromad",
-      "title": "Mijoz fikrlarini to'plang",
-      "description": "Agar mijozlaringiz bo'lsa, ulardan fikr so'rang. Agar yo'q bo'lsa, potentsial mijozlardan so'rang.",
-      "reward": "Mijoz fikri - yo'lni ko'rsatadi."
+      "category": "freelance",
+      "title": "Premium mijozlarga fokus",
+      "description": "Kichik loyihalar o'rniga katta loyihalarga fokus. $1000+ loyihalar qidiring.",
+      "reward": "Big fish = big money"
     },
     {
       "id": 35,
       "week": 5,
       "day": 7,
-      "category": "asoslar",
-      "title": "Haftalik ko'rib chiqish",
-      "description": "Bu haftada qilgan ishlaringizni ko'rib chiqing. Qaysi task eng foydali bo'ldi?",
-      "reward": "Refleksiya - o'sish kaliti."
+      "category": "tahlil",
+      "title": "5-hafta tahlil",
+      "description": "Daromad dinamikasi, eng foydali xizmat, eng yaxshi mijoz manbasi. Strategiyani optimallashtiring.",
+      "reward": "Data-driven decisions"
     },
     {
       "id": 36,
       "week": 6,
       "day": 1,
-      "category": "daromad",
-      "title": "Daromadni ikki baravar oshirish rejasi",
-      "description": "Hozirgi daromadingizni qanday qilib 2 baravar oshirish mumkin? 3 ta yo'l yozing.",
-      "reward": "Katta o'ylab, katta yuting."
+      "category": "telegram",
+      "title": "Bot xizmatini avtomatlashtiring",
+      "description": "Tez-tez so'raladigan bot turlarini 1 kunda yetkazadigan qilib tizim quring. Template + customization.",
+      "reward": "System = scale"
     },
     {
       "id": 37,
       "week": 6,
       "day": 2,
-      "category": "investitsiya",
-      "title": "Portfelni diversifikatsiya qiling",
-      "description": "Investitsiya portfelingizni turli aktivlarga bo'ling. Hamma tuxumni bitta savatga solmang.",
-      "reward": "Diversifikatsiya - xavfsizlik."
+      "category": "web",
+      "title": "No-code/Low-code o'rganing",
+      "description": "Webflow, Framer o'rganing. Ba'zi loyihalar uchun tezroq va foydali. AI + No-code = super tez.",
+      "reward": "Right tool for right job"
     },
     {
       "id": 38,
       "week": 6,
       "day": 3,
-      "category": "bilim",
-      "title": "Marketing asoslarini o'rganing",
-      "description": "Marketing asoslari haqida o'qing: 4P (Product, Price, Place, Promotion). Biznesingizga qo'llang.",
-      "reward": "Marketing bilishi = ko'proq sotuv."
+      "category": "mahsulot",
+      "title": "Monetizatsiya qo'shing",
+      "description": "Mahsulotlaringizga to'lov qo'shing: subscription, in-app purchase, premium tier.",
+      "reward": "Monetization = real business"
     },
     {
       "id": 39,
       "week": 6,
       "day": 4,
-      "category": "tarmoq",
-      "title": "Hamkorlik imkoniyatini toping",
-      "description": "Sizning biznesingizni to'ldiruvchi bitta biznes toping. Hamkorlik taklif qiling.",
-      "reward": "Hamkorlik - kuchni ko'paytiradi."
+      "category": "marketing",
+      "title": "Content marketing boshlang",
+      "description": "YouTube, Blog, Twitter'da content chiqaring. 'AI bilan bot yasash', 'Flutter tips' - weekly.",
+      "reward": "Content = inbound leads"
     },
     {
       "id": 40,
       "week": 6,
       "day": 5,
-      "category": "tejash",
-      "title": "Katta xarajatlarni qayta ko'rib chiqing",
-      "description": "Eng katta 3 ta xarajatingizni ko'rib chiqing. Ularni kamaytirish yo'li bormi?",
-      "reward": "Katta tejash - katta o'zgarish."
+      "category": "masshtab",
+      "title": "Virtual assistant yollang",
+      "description": "Oddiy ishlar uchun VA yollang: email, scheduling, research. $3-5/soat. Vaqtingizni coding'ga sarflang.",
+      "reward": "Delegation = leverage"
     },
     {
       "id": 41,
       "week": 6,
       "day": 6,
-      "category": "daromad",
-      "title": "Premium xizmat/mahsulot yarating",
-      "description": "Mavjud xizmat/mahsulotingizning premium versiyasini o'ylab toping. Qo'shimcha qiymat nima?",
-      "reward": "Premium = yuqori margin."
+      "category": "flutter",
+      "title": "App subscription qo'shing",
+      "description": "App'laringizga RevenueCat bilan subscription qo'shing. Monthly recurring revenue.",
+      "reward": "MRR = predictable income"
     },
     {
       "id": 42,
       "week": 6,
       "day": 7,
-      "category": "asoslar",
-      "title": "Net worth ni yangilang",
-      "description": "Sof boyligingizni qayta hisoblang. Bir oydan beri qancha o'sgansiz?",
-      "reward": "O'sishni o'lchash - motivatsiya."
+      "category": "tahlil",
+      "title": "6-HAFTA = 1.5 OY",
+      "description": "Yarim yo'ldasiz! Daromad maqsadning qancha %? Tezlikni oshirish kerakmi? Action plan tuzing.",
+      "reward": "Halfway checkpoint"
     },
     {
       "id": 43,
       "week": 7,
       "day": 1,
-      "category": "daromad",
-      "title": "Yangi mahsulot/xizmat qo'shing",
-      "description": "Mavjud biznesingizga yangi mahsulot yoki xizmat qo'shing. Mijozlar yana nima xohlaydi?",
-      "reward": "Ko'proq mahsulot = ko'proq daromad."
+      "category": "masshtab",
+      "title": "Retainer mijozlar toping",
+      "description": "Oylik to'lov bilan ishlaydigan 2-3 ta mijoz toping. Masalan: oyiga $500 = maintenance + updates.",
+      "reward": "Retainer = stability"
     },
     {
       "id": 44,
       "week": 7,
       "day": 2,
-      "category": "investitsiya",
-      "title": "Avtomatik investitsiya o'rnating",
-      "description": "Har oylik avtomatik investitsiya o'rnating. Oylik bir xil miqdorda investitsiya qiling.",
-      "reward": "Avtomatik investitsiya - distsiplina."
+      "category": "passiv",
+      "title": "Kurs/Tutorial sotishni o'ylang",
+      "description": "Udemy, Skillshare, yoki o'z platformangizda kurs soting. 'AI bilan Telegram bot yasash' - hot topic.",
+      "reward": "Course = high margin passive"
     },
     {
       "id": 45,
       "week": 7,
       "day": 3,
-      "category": "bilim",
-      "title": "Sotish san'atini o'rganing",
-      "description": "Sotish texnikalari haqida o'rganing. SPIN, Challenger, Solution Selling metodlaridan birini o'rganing.",
-      "reward": "Sotish bilishi = biznes muvaffaqiyati."
+      "category": "telegram",
+      "title": "Enterprise bot xizmati",
+      "description": "Katta kompaniyalar uchun murakkab bot xizmati taklif qiling. CRM integration, analytics. $2000+.",
+      "reward": "Enterprise = premium pricing"
     },
     {
       "id": 46,
       "week": 7,
       "day": 4,
-      "category": "tarmoq",
-      "title": "Mastermind guruhiga qo'shiling",
-      "description": "O'xshash maqsadli odamlar guruhi toping va qo'shiling. Telegram, Facebook yoki offline guruhlar.",
-      "reward": "Guruh - bu qo'llab-quvvatlash."
+      "category": "web",
+      "title": "E-commerce xizmati",
+      "description": "Online do'kon yasash xizmatini qo'shing. Shopify, WooCommerce yoki custom. Katta bozor.",
+      "reward": "E-commerce = growing market"
     },
     {
       "id": 47,
       "week": 7,
       "day": 5,
-      "category": "tejash",
-      "title": "Sug'urta imkoniyatlarini ko'rib chiqing",
-      "description": "Sog'liq va hayot sug'urtasi imkoniyatlarini o'rganing. Oilangizni himoya qiling.",
-      "reward": "Sug'urta - bu xavfsizlik."
+      "category": "flutter",
+      "title": "White-label app xizmati",
+      "description": "Bir app'ni white-label qilib ko'p mijozga soting. Bir marta yozing, ko'p marta soting.",
+      "reward": "White-label = leverage"
     },
     {
       "id": 48,
       "week": 7,
       "day": 6,
-      "category": "daromad",
-      "title": "Narxlarni oshiring",
-      "description": "Agar xizmat ko'rsatsangiz, narxlarni 10-20% oshiring. Qiymatli bo'lsangiz, qimmat bo'lasiz.",
-      "reward": "Qiymat yuqori = narx yuqori."
+      "category": "tarmoq",
+      "title": "Partnership qiling",
+      "description": "Designer, Marketer, Backend dev bilan partnership qiling. Katta loyihalarni birga oling.",
+      "reward": "Partnership = bigger deals"
     },
     {
       "id": 49,
       "week": 7,
       "day": 7,
-      "category": "asoslar",
-      "title": "Ikki oylik natijalari",
-      "description": "Ikki oylik sayohatingizni tahlil qiling. Eng katta yutuqlaringiz nima? Eng katta darslar nima?",
-      "reward": "Ikki oy - katta o'zgarish!"
+      "category": "tahlil",
+      "title": "2-OY TAHLIL",
+      "description": "2 oy tugadi! Total revenue, eng yaxshi xizmat, eng yaxshi mijoz manbasi. 3-oy maqsadlari.",
+      "reward": "2 months = serious traction"
     },
     {
       "id": 50,
       "week": 8,
       "day": 1,
-      "category": "daromad",
-      "title": "Birinchi yordamchini yollang",
-      "description": "Bitta oddiy vazifani boshqa birovga topshiring. Part-time yordamchi yoki freelancer.",
-      "reward": "Delegatsiya - o'sish kaliti."
+      "category": "masshtab",
+      "title": "$5K/oy maqsad",
+      "description": "Agar $5K/oyga yetmagan bo'lsangiz, bunga yetish uchun aniq reja tuzing. Qaysi xizmatni scale qilish kerak?",
+      "reward": "$5K = life changing"
+    },
+    {
+      "id": 51,
+      "week": 8,
+      "day": 2,
+      "category": "mahsulot",
+      "title": "SaaS mahsulot boshlang",
+      "description": "B2B SaaS boshlang. Kichik bizneslar uchun tool. Monthly subscription. AI bilan tez quring.",
+      "reward": "SaaS = scalable business"
+    },
+    {
+      "id": 52,
+      "week": 8,
+      "day": 3,
+      "category": "marketing",
+      "title": "Paid ads test qiling",
+      "description": "Google Ads yoki Facebook Ads bilan $50-100 test qiling. ROI o'lchang.",
+      "reward": "Paid ads = fast growth"
+    },
+    {
+      "id": 53,
+      "week": 8,
+      "day": 4,
+      "category": "telegram",
+      "title": "Bot-as-a-Service",
+      "description": "Bot xizmatini SaaS modelga o'tkazing. Oylik subscription: $29-99. Hosting + maintenance included.",
+      "reward": "BaaS = recurring"
+    },
+    {
+      "id": 54,
+      "week": 8,
+      "day": 5,
+      "category": "bilim",
+      "title": "Sales skill o'rganing",
+      "description": "Texnik skill + Sales skill = 10x daromad. Cold outreach, negotiation, closing haqida o'rganing.",
+      "reward": "Sales = money skill"
+    },
+    {
+      "id": 55,
+      "week": 8,
+      "day": 6,
+      "category": "masshtab",
+      "title": "Jamoani kengaytiring",
+      "description": "Junior developer yoki freelancer yollang. Siz boshqaring, ular bajarsin. Leverage yarating.",
+      "reward": "Team = scale"
+    },
+    {
+      "id": 56,
+      "week": 8,
+      "day": 7,
+      "category": "tahlil",
+      "title": "8-hafta tahlil",
+      "description": "2 oy tugadi. Yil oxirigacha 4-5 oy qoldi. On track misiz? Tezlikni oshiring agar kerak.",
+      "reward": "Reality check"
+    },
+    {
+      "id": 57,
+      "week": 9,
+      "day": 1,
+      "category": "masshtab",
+      "title": "Eng yaxshi kanalni 10x qiling",
+      "description": "Qaysi xizmat/mahsulot eng ko'p pul keltirdi? Shu kanalga 80% fokus qiling.",
+      "reward": "Focus = exponential growth"
+    },
+    {
+      "id": 58,
+      "week": 9,
+      "day": 2,
+      "category": "passiv",
+      "title": "3 ta passive income stream",
+      "description": "Kamida 3 ta passive stream bo'lsin: Templates, Apps, Course/Content. Diversifikatsiya.",
+      "reward": "Passive = freedom"
+    },
+    {
+      "id": 59,
+      "week": 9,
+      "day": 3,
+      "category": "flutter",
+      "title": "App portfolio kengaytiring",
+      "description": "Kamida 3-5 ta app store'da bo'lsin. Har biri kichik passiv daromad keltirsin.",
+      "reward": "App portfolio = asset"
+    },
+    {
+      "id": 60,
+      "week": 9,
+      "day": 4,
+      "category": "web",
+      "title": "Recurring web xizmati",
+      "description": "Web sayt + hosting + maintenance package. Oyiga $50-200. 10 ta mijoz = $500-2000/oy.",
+      "reward": "Recurring web = stable"
+    },
+    {
+      "id": 61,
+      "week": 9,
+      "day": 5,
+      "category": "telegram",
+      "title": "Bot agency boshlang",
+      "description": "O'zingizni bot agency sifatida pozitsiyalang. Landing page, case studies, testimonials.",
+      "reward": "Agency = premium"
+    },
+    {
+      "id": 62,
+      "week": 9,
+      "day": 6,
+      "category": "tarmoq",
+      "title": "Mentorship boshlang",
+      "description": "Junior developerlarga mentorship bering. Soatiga $50-100. Yangi daromad kanali.",
+      "reward": "Mentorship = high hourly"
+    },
+    {
+      "id": 63,
+      "week": 9,
+      "day": 7,
+      "category": "tahlil",
+      "title": "3-OY TAHLIL",
+      "description": "3 oy tugadi! Maqsadning qancha foiziga yetdingiz? Qolgan vaqtda nimani o'zgartirish kerak?",
+      "reward": "3 months = major milestone"
+    },
+    {
+      "id": 64,
+      "week": 10,
+      "day": 1,
+      "category": "masshtab",
+      "title": "$10K/oy maqsad",
+      "description": "$10K/oyga yetish uchun reja tuzing. Bu yerdan keyin o'sish tezroq bo'ladi.",
+      "reward": "$10K = freedom level"
+    },
+    {
+      "id": 65,
+      "week": 10,
+      "day": 2,
+      "category": "mahsulot",
+      "title": "Flagship mahsulot tanlang",
+      "description": "Eng yaxshi ishlaydigan mahsulotni flagship qiling. Unga ko'proq invest qiling.",
+      "reward": "Flagship = brand"
+    },
+    {
+      "id": 66,
+      "week": 10,
+      "day": 3,
+      "category": "marketing",
+      "title": "Case study marketing",
+      "description": "Har bir xizmat uchun case study yozing. Before/after, natijalar, testimonial.",
+      "reward": "Case study = trust"
+    },
+    {
+      "id": 67,
+      "week": 10,
+      "day": 4,
+      "category": "masshtab",
+      "title": "Outsource 50% ish",
+      "description": "Ishingizning 50% ni outsource qiling. Siz faqat sales va strategy bilan shug'ullaning.",
+      "reward": "Outsource = CEO mindset"
+    },
+    {
+      "id": 68,
+      "week": 10,
+      "day": 5,
+      "category": "passiv",
+      "title": "Asset sotish imkoniyati",
+      "description": "App, bot, SaaS'laringizni sotish imkoniyatini o'rganing. Flippa, Acquire.com.",
+      "reward": "Exit = wealth event"
+    },
+    {
+      "id": 69,
+      "week": 10,
+      "day": 6,
+      "category": "tarmoq",
+      "title": "Advisory role",
+      "description": "Startup'larga advisor sifatida qo'shiling. Equity + cash compensation.",
+      "reward": "Advisor = passive equity"
+    },
+    {
+      "id": 70,
+      "week": 10,
+      "day": 7,
+      "category": "tahlil",
+      "title": "10-HAFTA GRAND TAHLIL",
+      "description": "10 hafta = 2.5 oy. Total daromad, o'sish %, eng yaxshi qarorlar, eng yomon xatolar. Keyingi 10 hafta uchun mega reja.",
+      "reward": "10 weeks = new person"
     }
   ]
 }
