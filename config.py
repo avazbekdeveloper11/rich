@@ -6,3 +6,6 @@ DATABASE_PATH = "database/users.db"
 
 DAILY_MOTIVATION_HOUR = 7
 DAILY_MOTIVATION_MINUTE = 0
+
+# Faqat shu chat ID da ishlaydi
+ALLOWED_CHAT_ID = 941120745

@@ -1,9 +1,16 @@
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ContextTypes
 from services.database import create_user, get_user
+from config import ALLOWED_CHAT_ID
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user = update.effective_user
+
+    # Faqat ruxsat berilgan chat uchun ishlaydi
+    if user.id != ALLOWED_CHAT_ID:
+        await update.message.reply_text("Bu bot shaxsiy bot.")
+        return
+
     await create_user(user.id, user.username, user.first_name)
 
     welcome_text = f"""
@@ -38,6 +45,11 @@ Boshlashga tayyormisiz?
     )
 
 async def menu(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    user = update.effective_user
+    if user.id != ALLOWED_CHAT_ID:
+        await update.message.reply_text("Bu bot shaxsiy bot.")
+        return
+
     keyboard = [
         [InlineKeyboardButton("Bugungi task", callback_data="task")],
         [InlineKeyboardButton("Motivatsiya", callback_data="motivation"),

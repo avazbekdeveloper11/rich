@@ -10,7 +10,7 @@ from telegram.ext import (
 )
 
 from telegram.request import HTTPXRequest
-from config import BOT_TOKEN, DAILY_MOTIVATION_HOUR, DAILY_MOTIVATION_MINUTE
+from config import BOT_TOKEN, DAILY_MOTIVATION_HOUR, DAILY_MOTIVATION_MINUTE, ALLOWED_CHAT_ID
 from services.database import init_db, get_all_users
 from services.content import get_random_motivation
 from handlers.start import start, menu
