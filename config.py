@@ -1,0 +1,8 @@
+import os
+
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8845921682:AAEB7mBBQoNIeNKhm2xhBStwQ3nCJW5-zGc")
+
+DATABASE_PATH = "database/users.db"
+
+DAILY_MOTIVATION_HOUR = 7
+DAILY_MOTIVATION_MINUTE = 0

@@ -1,0 +1,454 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "week": 1,
+      "day": 1,
+      "category": "asoslar",
+      "title": "Moliyaviy maqsadlaringizni yozing",
+      "description": "Daftarga 3 ta moliyaviy maqsadingizni yozing: 1 yillik, 5 yillik va 10 yillik. Aniq raqamlar bilan yozing.",
+      "reward": "Bu birinchi qadam. Maqsadsiz yo'l yo'q!"
+    },
+    {
+      "id": 2,
+      "week": 1,
+      "day": 2,
+      "category": "asoslar",
+      "title": "Haftalik xarajatlarni yozing",
+      "description": "Bugundan boshlab 7 kun davomida har bir xarajatingizni yozib boring. Qancha pul, nimaga sarfladingiz.",
+      "reward": "Pulni boshqarish uni bilishdan boshlanadi."
+    },
+    {
+      "id": 3,
+      "week": 1,
+      "day": 3,
+      "category": "tejash",
+      "title": "Bitta keraksiz xarajatni toping",
+      "description": "Har oylik xarajatlaringizdan bitta keraksiz narsani toping va uni bekor qiling (obuna, odat, xizmat).",
+      "reward": "Tejagan pul - topilgan pul!"
+    },
+    {
+      "id": 4,
+      "week": 1,
+      "day": 4,
+      "category": "bilim",
+      "title": "Moliyaviy kitob tanlang",
+      "description": "Bitta moliyaviy kitob tanlang va o'qishni boshlang. Tavsiya: 'Boy ota, kambag'al ota' (Robert Kiyosaki).",
+      "reward": "Bilim - bu eng yaxshi investitsiya."
+    },
+    {
+      "id": 5,
+      "week": 1,
+      "day": 5,
+      "category": "daromad",
+      "title": "Qo'shimcha daromad imkoniyatini toping",
+      "description": "Qanday ko'nikmangiz bor? Uni qanday sotish mumkin? Bitta real imkoniyatni yozib qo'ying.",
+      "reward": "Bitta daromad manbasi yetarli emas."
+    },
+    {
+      "id": 6,
+      "week": 1,
+      "day": 6,
+      "category": "tarmoq",
+      "title": "Muvaffaqiyatli odamni toping",
+      "description": "O'z sohangizda muvaffaqiyatga erishgan bitta odamni toping va uning tarixini o'rganing.",
+      "reward": "Muvaffaqiyat iz qoldiradi. Izlarni o'rganing."
+    },
+    {
+      "id": 7,
+      "week": 1,
+      "day": 7,
+      "category": "asoslar",
+      "title": "Haftalik tahlil",
+      "description": "Shu haftadagi xarajatlaringizni tahlil qiling. Qancha pul keraksiz narsalarga ketdi?",
+      "reward": "Tahlil qilish - yaxshilanish boshlanishi."
+    },
+    {
+      "id": 8,
+      "week": 2,
+      "day": 1,
+      "category": "tejash",
+      "title": "Jamg'arma hisobini oching",
+      "description": "Agar yo'q bo'lsa, alohida jamg'arma hisobi oching. Bugundan boshlab har oylik daromadingizning 10% ni shu yerga o'tkazing.",
+      "reward": "Jamg'arma - bu kelajakka investitsiya."
+    },
+    {
+      "id": 9,
+      "week": 2,
+      "day": 2,
+      "category": "bilim",
+      "title": "Investitsiya turlarini o'rganing",
+      "description": "Bugun investitsiya turlari haqida o'qing: aksiyalar, obligatsiyalar, ko'chmas mulk, biznes. Har biri haqida 2-3 gap yozing.",
+      "reward": "Investitsiya - boylikning kaliti."
+    },
+    {
+      "id": 10,
+      "week": 2,
+      "day": 3,
+      "category": "daromad",
+      "title": "Freelance profilini yarating",
+      "description": "Upwork, Fiverr yoki mahalliy freelance platformasida profil yarating. Ko'nikmalaringizni ko'rsating.",
+      "reward": "Online daromad - global imkoniyat."
+    },
+    {
+      "id": 11,
+      "week": 2,
+      "day": 4,
+      "category": "tarmoq",
+      "title": "LinkedIn profilini yangilang",
+      "description": "LinkedIn profilingizni professional qilib yangilang. Agar yo'q bo'lsa, yarating.",
+      "reward": "Professional tarmoq - imkoniyatlar eshigi."
+    },
+    {
+      "id": 12,
+      "week": 2,
+      "day": 5,
+      "category": "bilim",
+      "title": "Budjet tuzish",
+      "description": "Keyingi oy uchun budjet tuzing: daromadlar, xarajatlar, jamg'arma. 50/30/20 qoidasini qo'llang.",
+      "reward": "Budjet - bu moliyaviy xarita."
+    },
+    {
+      "id": 13,
+      "week": 2,
+      "day": 6,
+      "category": "daromad",
+      "title": "Uyda sotish mumkin bo'lgan narsalarni toping",
+      "description": "Uyingizdagi keraksiz narsalarni toping va ularni sotishga tayyorlang. OLX yoki boshqa platformalarda e'lon qiling.",
+      "reward": "Keraksiz narsalar - yashirin pul."
+    },
+    {
+      "id": 14,
+      "week": 2,
+      "day": 7,
+      "category": "asoslar",
+      "title": "Net worth hisobini oling",
+      "description": "Barcha aktivlaringiz (pul, mulk, investitsiyalar) dan barcha qarzlaringizni ayiring. Bu sizning sof boyligingiz.",
+      "reward": "Bilish - bu nazorat qilish."
+    },
+    {
+      "id": 15,
+      "week": 3,
+      "day": 1,
+      "category": "bilim",
+      "title": "Bitta yangi ko'nikma tanlang",
+      "description": "Daromadingizni oshiradigan bitta yangi ko'nikmani tanlang va o'rganishni boshlang (dasturlash, dizayn, marketing).",
+      "reward": "Yangi ko'nikma = yangi imkoniyat."
+    },
+    {
+      "id": 16,
+      "week": 3,
+      "day": 2,
+      "category": "tejash",
+      "title": "Avtomatik to'lovlarni tekshiring",
+      "description": "Bank kartangizdagi barcha avtomatik to'lovlarni tekshiring. Keraksizlarini bekor qiling.",
+      "reward": "Avtomatik to'lovlar jim pul yeydi."
+    },
+    {
+      "id": 17,
+      "week": 3,
+      "day": 3,
+      "category": "daromad",
+      "title": "Birinchi freelance ishingizga ariza bering",
+      "description": "Freelance platformada bitta ishga ariza bering. Hatto rad bo'lsa ham, tajriba ortadi.",
+      "reward": "Har bir 'yo'q' sizni 'ha'ga yaqinlashtiradi."
+    },
+    {
+      "id": 18,
+      "week": 3,
+      "day": 4,
+      "category": "tarmoq",
+      "title": "Biznes uchrashuv/webinarga qo'shiling",
+      "description": "Bugun bitta biznes webinar, masterclass yoki uchrashuv toping va ro'yxatdan o'ting.",
+      "reward": "Tarmoq kengayishi = imkoniyatlar ko'payishi."
+    },
+    {
+      "id": 19,
+      "week": 3,
+      "day": 5,
+      "category": "bilim",
+      "title": "Muvaffaqiyatli odamning podcast/interviewsini tinglang",
+      "description": "Muvaffaqiyatli tadbirkorning interviewsini toping va to'liq tinglang. Asosiy fikrlarni yozib oling.",
+      "reward": "Muvaffaqiyatli odamlardan o'rganing."
+    },
+    {
+      "id": 20,
+      "week": 3,
+      "day": 6,
+      "category": "daromad",
+      "title": "Biznes g'oya yozing",
+      "description": "Bitta biznes g'oyani batafsil yozing: nima sotasiz, kimga sotasiz, qanday pul topasiz.",
+      "reward": "G'oya - bu urug'. Ekish kerak."
+    },
+    {
+      "id": 21,
+      "week": 3,
+      "day": 7,
+      "category": "asoslar",
+      "title": "Haftalik tahlil va rejalashtirish",
+      "description": "O'tgan 3 haftani tahlil qiling. Nimalarga erishdingiz? Keyingi hafta uchun 3 ta maqsad qo'ying.",
+      "reward": "Tahlil va rejalashtirish - muvaffaqiyat formulasi."
+    },
+    {
+      "id": 22,
+      "week": 4,
+      "day": 1,
+      "category": "daromad",
+      "title": "Birinchi mahsulot/xizmatni soting",
+      "description": "Bugun biror narsa soting: eski narsa, xizmat, ko'nikma. Qancha bo'lsa ham, birinchi sotuvingiz muhim.",
+      "reward": "Birinchi sotuv - biznes boshlanishi."
+    },
+    {
+      "id": 23,
+      "week": 4,
+      "day": 2,
+      "category": "investitsiya",
+      "title": "Investitsiya hisobini oching",
+      "description": "Broker hisobi oching yoki investitsiya ilovasi yuklab oling. Hali pul qo'ymasangiz ham bo'ladi.",
+      "reward": "Investitsiya sayohati birinchi qadamdan boshlanadi."
+    },
+    {
+      "id": 24,
+      "week": 4,
+      "day": 3,
+      "category": "tejash",
+      "title": "30 kunlik challenge boshlang",
+      "description": "30 kun davomida bitta yomon moliyaviy odatni to'xtating (chekish, keraksiz xaridlar, tashqi ovqat).",
+      "reward": "Odat o'zgartirish - hayot o'zgartirish."
+    },
+    {
+      "id": 25,
+      "week": 4,
+      "day": 4,
+      "category": "tarmoq",
+      "title": "Mentor toping",
+      "description": "Sizdan oldinda yurgan bitta odamni toping va mentor bo'lishini so'rang. Yoki mentorlik dasturiga yozing.",
+      "reward": "Mentor - bu tezlatgich."
+    },
+    {
+      "id": 26,
+      "week": 4,
+      "day": 5,
+      "category": "bilim",
+      "title": "Soliqlar haqida o'rganing",
+      "description": "O'zbekistondagi soliq tizimi haqida o'qing. Tadbirkorlar uchun qanday soliqlar bor?",
+      "reward": "Soliqni bilish - pulni tejash."
+    },
+    {
+      "id": 27,
+      "week": 4,
+      "day": 6,
+      "category": "daromad",
+      "title": "Passiv daromad manbasini rejalashtiring",
+      "description": "Bitta passiv daromad manbasini batafsil rejalashtiring: nima, qanday, qachon boshlaysiz?",
+      "reward": "Passiv daromad - bu erkinlik."
+    },
+    {
+      "id": 28,
+      "week": 4,
+      "day": 7,
+      "category": "asoslar",
+      "title": "Birinchi oy natijalarini tahlil qiling",
+      "description": "Bir oylik sayohatingizni tahlil qiling: qancha tejadingiz, nima o'rgandingiz, qancha topdingiz?",
+      "reward": "Bir oy - bu katta qadam oldinga!"
+    },
+    {
+      "id": 29,
+      "week": 5,
+      "day": 1,
+      "category": "investitsiya",
+      "title": "Birinchi investitsiyangizni qiling",
+      "description": "Kichik miqdorda bo'lsa ham, birinchi investitsiyangizni qiling. Aksiya, fond yoki kripto.",
+      "reward": "Birinchi investitsiya - katta qadam!"
+    },
+    {
+      "id": 30,
+      "week": 5,
+      "day": 2,
+      "category": "daromad",
+      "title": "Side hustle ni rivojlantiring",
+      "description": "Qo'shimcha daromad manbaingizni rivojlantiring. Marketing qiling, yangi mijozlar toping.",
+      "reward": "Side hustle asosiy daromadga aylanishi mumkin."
+    },
+    {
+      "id": 31,
+      "week": 5,
+      "day": 3,
+      "category": "bilim",
+      "title": "Negotiation (kelishuv) haqida o'rganing",
+      "description": "Kelishuv san'ati haqida bitta video ko'ring yoki maqola o'qing. 3 ta asosiy printsipni yozing.",
+      "reward": "Kelishuv bilishi = ko'proq pul."
+    },
+    {
+      "id": 32,
+      "week": 5,
+      "day": 4,
+      "category": "tarmoq",
+      "title": "5 ta yangi odamga yozing",
+      "description": "LinkedIn yoki boshqa platformada 5 ta yangi odamga bog'laning. Salomlashing, tanishing.",
+      "reward": "Har bir yangi aloqa - yangi imkoniyat."
+    },
+    {
+      "id": 33,
+      "week": 5,
+      "day": 5,
+      "category": "tejash",
+      "title": "Narx taqqoslang",
+      "description": "Muntazam sotib oladigan 5 ta mahsulotning narxini turli do'konlarda taqqoslang. Eng arzon variantni toping.",
+      "reward": "Aqlli xaridor - boy xaridor."
+    },
+    {
+      "id": 34,
+      "week": 5,
+      "day": 6,
+      "category": "daromad",
+      "title": "Mijoz fikrlarini to'plang",
+      "description": "Agar mijozlaringiz bo'lsa, ulardan fikr so'rang. Agar yo'q bo'lsa, potentsial mijozlardan so'rang.",
+      "reward": "Mijoz fikri - yo'lni ko'rsatadi."
+    },
+    {
+      "id": 35,
+      "week": 5,
+      "day": 7,
+      "category": "asoslar",
+      "title": "Haftalik ko'rib chiqish",
+      "description": "Bu haftada qilgan ishlaringizni ko'rib chiqing. Qaysi task eng foydali bo'ldi?",
+      "reward": "Refleksiya - o'sish kaliti."
+    },
+    {
+      "id": 36,
+      "week": 6,
+      "day": 1,
+      "category": "daromad",
+      "title": "Daromadni ikki baravar oshirish rejasi",
+      "description": "Hozirgi daromadingizni qanday qilib 2 baravar oshirish mumkin? 3 ta yo'l yozing.",
+      "reward": "Katta o'ylab, katta yuting."
+    },
+    {
+      "id": 37,
+      "week": 6,
+      "day": 2,
+      "category": "investitsiya",
+      "title": "Portfelni diversifikatsiya qiling",
+      "description": "Investitsiya portfelingizni turli aktivlarga bo'ling. Hamma tuxumni bitta savatga solmang.",
+      "reward": "Diversifikatsiya - xavfsizlik."
+    },
+    {
+      "id": 38,
+      "week": 6,
+      "day": 3,
+      "category": "bilim",
+      "title": "Marketing asoslarini o'rganing",
+      "description": "Marketing asoslari haqida o'qing: 4P (Product, Price, Place, Promotion). Biznesingizga qo'llang.",
+      "reward": "Marketing bilishi = ko'proq sotuv."
+    },
+    {
+      "id": 39,
+      "week": 6,
+      "day": 4,
+      "category": "tarmoq",
+      "title": "Hamkorlik imkoniyatini toping",
+      "description": "Sizning biznesingizni to'ldiruvchi bitta biznes toping. Hamkorlik taklif qiling.",
+      "reward": "Hamkorlik - kuchni ko'paytiradi."
+    },
+    {
+      "id": 40,
+      "week": 6,
+      "day": 5,
+      "category": "tejash",
+      "title": "Katta xarajatlarni qayta ko'rib chiqing",
+      "description": "Eng katta 3 ta xarajatingizni ko'rib chiqing. Ularni kamaytirish yo'li bormi?",
+      "reward": "Katta tejash - katta o'zgarish."
+    },
+    {
+      "id": 41,
+      "week": 6,
+      "day": 6,
+      "category": "daromad",
+      "title": "Premium xizmat/mahsulot yarating",
+      "description": "Mavjud xizmat/mahsulotingizning premium versiyasini o'ylab toping. Qo'shimcha qiymat nima?",
+      "reward": "Premium = yuqori margin."
+    },
+    {
+      "id": 42,
+      "week": 6,
+      "day": 7,
+      "category": "asoslar",
+      "title": "Net worth ni yangilang",
+      "description": "Sof boyligingizni qayta hisoblang. Bir oydan beri qancha o'sgansiz?",
+      "reward": "O'sishni o'lchash - motivatsiya."
+    },
+    {
+      "id": 43,
+      "week": 7,
+      "day": 1,
+      "category": "daromad",
+      "title": "Yangi mahsulot/xizmat qo'shing",
+      "description": "Mavjud biznesingizga yangi mahsulot yoki xizmat qo'shing. Mijozlar yana nima xohlaydi?",
+      "reward": "Ko'proq mahsulot = ko'proq daromad."
+    },
+    {
+      "id": 44,
+      "week": 7,
+      "day": 2,
+      "category": "investitsiya",
+      "title": "Avtomatik investitsiya o'rnating",
+      "description": "Har oylik avtomatik investitsiya o'rnating. Oylik bir xil miqdorda investitsiya qiling.",
+      "reward": "Avtomatik investitsiya - distsiplina."
+    },
+    {
+      "id": 45,
+      "week": 7,
+      "day": 3,
+      "category": "bilim",
+      "title": "Sotish san'atini o'rganing",
+      "description": "Sotish texnikalari haqida o'rganing. SPIN, Challenger, Solution Selling metodlaridan birini o'rganing.",
+      "reward": "Sotish bilishi = biznes muvaffaqiyati."
+    },
+    {
+      "id": 46,
+      "week": 7,
+      "day": 4,
+      "category": "tarmoq",
+      "title": "Mastermind guruhiga qo'shiling",
+      "description": "O'xshash maqsadli odamlar guruhi toping va qo'shiling. Telegram, Facebook yoki offline guruhlar.",
+      "reward": "Guruh - bu qo'llab-quvvatlash."
+    },
+    {
+      "id": 47,
+      "week": 7,
+      "day": 5,
+      "category": "tejash",
+      "title": "Sug'urta imkoniyatlarini ko'rib chiqing",
+      "description": "Sog'liq va hayot sug'urtasi imkoniyatlarini o'rganing. Oilangizni himoya qiling.",
+      "reward": "Sug'urta - bu xavfsizlik."
+    },
+    {
+      "id": 48,
+      "week": 7,
+      "day": 6,
+      "category": "daromad",
+      "title": "Narxlarni oshiring",
+      "description": "Agar xizmat ko'rsatsangiz, narxlarni 10-20% oshiring. Qiymatli bo'lsangiz, qimmat bo'lasiz.",
+      "reward": "Qiymat yuqori = narx yuqori."
+    },
+    {
+      "id": 49,
+      "week": 7,
+      "day": 7,
+      "category": "asoslar",
+      "title": "Ikki oylik natijalari",
+      "description": "Ikki oylik sayohatingizni tahlil qiling. Eng katta yutuqlaringiz nima? Eng katta darslar nima?",
+      "reward": "Ikki oy - katta o'zgarish!"
+    },
+    {
+      "id": 50,
+      "week": 8,
+      "day": 1,
+      "category": "daromad",
+      "title": "Birinchi yordamchini yollang",
+      "description": "Bitta oddiy vazifani boshqa birovga topshiring. Part-time yordamchi yoki freelancer.",
+      "reward": "Delegatsiya - o'sish kaliti."
+    }
+  ]
+}

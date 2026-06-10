@@ -1,0 +1,124 @@
+{
+  "ideas": [
+    {
+      "title": "Freelance xizmatlari",
+      "description": "Upwork, Fiverr, yoki mahalliy platformalarda o'z ko'nikmalaringizni soting: yozish, dizayn, dasturlash, tarjima.",
+      "capital": "0 so'm",
+      "difficulty": "Oson"
+    },
+    {
+      "title": "Online ta'lim",
+      "description": "Biladigan narsangizni o'rgating: video kurslar, mentorlik, repetitorlik. YouTube, Udemy yoki o'z platformangiz orqali.",
+      "capital": "0-500,000 so'm",
+      "difficulty": "O'rta"
+    },
+    {
+      "title": "Dropshipping",
+      "description": "Mahsulotlarni o'z omboringizda saqlamay sotish. Buyurtma kelganda yetkazib beruvchidan jo'natiladi.",
+      "capital": "500,000-2,000,000 so'm",
+      "difficulty": "O'rta"
+    },
+    {
+      "title": "SMM xizmatlari",
+      "description": "Kichik bizneslar uchun ijtimoiy tarmoqlarni boshqarish. Instagram, Telegram, Facebook sahifalarini yuritish.",
+      "capital": "0 so'm",
+      "difficulty": "Oson"
+    },
+    {
+      "title": "Affiliate marketing",
+      "description": "Boshqa kompaniyalar mahsulotlarini tavsiya qilib, har bir sotuvdan foiz oling. Blog, YouTube, Telegram orqali.",
+      "capital": "0-300,000 so'm",
+      "difficulty": "O'rta"
+    },
+    {
+      "title": "Telegram bot yaratish",
+      "description": "Bizneslar uchun Telegram botlar yaratish. Buyurtma qabul qilish, mijozlarga xizmat ko'rsatish botlari.",
+      "capital": "0 so'm",
+      "difficulty": "O'rta"
+    },
+    {
+      "title": "Uy taomlar yetkazish",
+      "description": "Uyda tayyorlangan taomlarni ofislarga yoki mijozlarga yetkazish. Instagram orqali buyurtma qabul qilish.",
+      "capital": "1,000,000-3,000,000 so'm",
+      "difficulty": "O'rta"
+    },
+    {
+      "title": "Foto/Video xizmatlari",
+      "description": "To'ylar, tadbirlar, mahsulot fotosuratlari. Boshlang'ich kamera bilan boshlash mumkin.",
+      "capital": "3,000,000-10,000,000 so'm",
+      "difficulty": "O'rta"
+    },
+    {
+      "title": "Print on Demand",
+      "description": "O'z dizayningizdagi futbolka, krujka va boshqa mahsulotlarni sotish. Buyurtma kelganda chop etiladi.",
+      "capital": "0-500,000 so'm",
+      "difficulty": "Oson"
+    },
+    {
+      "title": "Virtual assistent",
+      "description": "Chet ellik tadbirkorlar uchun masofaviy yordamchi bo'lish: email, kalendar, tadqiqot.",
+      "capital": "0 so'm",
+      "difficulty": "Oson"
+    },
+    {
+      "title": "Konsalting xizmatlari",
+      "description": "O'z sohangizdagi tajribangizni sotish. Biznes, marketing, moliya bo'yicha maslahat.",
+      "capital": "0 so'm",
+      "difficulty": "O'rta"
+    },
+    {
+      "title": "Mobil ta'mirlash",
+      "description": "Telefon va kompyuter ta'mirlash. Kurslardan o'rganib, uyda boshlash mumkin.",
+      "capital": "2,000,000-5,000,000 so'm",
+      "difficulty": "O'rta"
+    },
+    {
+      "title": "Gul yetkazish xizmati",
+      "description": "Bayramlar oldidan gul buyurtmalarini qabul qilish va yetkazish. Instagram orqali reklama.",
+      "capital": "1,000,000-3,000,000 so'm",
+      "difficulty": "Oson"
+    },
+    {
+      "title": "Copywriting",
+      "description": "Reklama matnlari, sayt kontenti, email marketing uchun matnlar yozish.",
+      "capital": "0 so'm",
+      "difficulty": "O'rta"
+    },
+    {
+      "title": "Onlayn do'kon",
+      "description": "Telegram yoki Instagram orqali mahsulotlar sotish. Kiyim, aksessuarlar, kosmetika.",
+      "capital": "2,000,000-10,000,000 so'm",
+      "difficulty": "O'rta"
+    },
+    {
+      "title": "Uy tozalash xizmati",
+      "description": "Uylar va ofislarni tozalash xizmati. Bir nechta ishchi yollab kengaytirish mumkin.",
+      "capital": "500,000-2,000,000 so'm",
+      "difficulty": "Oson"
+    },
+    {
+      "title": "Podcast/YouTube kanal",
+      "description": "Qiziqarli mavzuda kontent yarating. Reklama, sponsorlik va mahsulot sotish orqali daromad.",
+      "capital": "500,000-3,000,000 so'm",
+      "difficulty": "Qiyin"
+    },
+    {
+      "title": "Vending mashinalar",
+      "description": "Ichimlik yoki snack avtomatlari o'rnatish. Passiv daromad manbai.",
+      "capital": "10,000,000-30,000,000 so'm",
+      "difficulty": "O'rta"
+    },
+    {
+      "title": "Avtoyuvish xizmati",
+      "description": "Mobil avtoyuvish - mijozning uyiga borib mashinasini yuvish.",
+      "capital": "1,000,000-5,000,000 so'm",
+      "difficulty": "Oson"
+    },
+    {
+      "title": "Event planning",
+      "description": "To'y, tavallud va korporativ tadbirlarni tashkil qilish.",
+      "capital": "1,000,000-5,000,000 so'm",
+      "difficulty": "O'rta"
+    }
+  ]
+}
